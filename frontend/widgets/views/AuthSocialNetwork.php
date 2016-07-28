@@ -1,0 +1,1 @@
+<a href="<?=$url?>?<?=$params?>"><img src="/img/social/vk_logo_small_blue.png" alt="VK" width="50px" height="50px"></a>
